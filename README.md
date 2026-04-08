@@ -44,3 +44,7 @@ Vi presento **FabDNS Changer v2.0**, un progetto nato per gestire i DNS su Windo
   <img src="https://i.postimg.cc/zfxYnQFf/Screenshot-2025-12-16-165701.png" width="400"> 
   <img src="https://i.postimg.cc/GpXnkfx2/Screenshot-2025-12-16-165739.png" width="400">
 </p>
+## 🚀 Installazione Rapida
+Apri **PowerShell** come Amministratore e incolla il seguente comando:
+
+`iex (irm "https://is.gd/fabdnschanger")`
